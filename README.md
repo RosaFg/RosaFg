@@ -89,31 +89,6 @@
 
 </div>
 
-
-
-<div align="center">
-<h2><span style="color:#5B9BD5">Experiencia Destacada</span></h2>
-
-<table>
-  <tr>
-    <th style="background-color:#C8B8E8; color:#4a4a4a; padding:10px;">Empresa</th>
-    <th style="background-color:#C8B8E8; color:#4a4a4a; padding:10px;">Rol</th>
-    <th style="background-color:#C8B8E8; color:#4a4a4a; padding:10px;">Periodo</th>
-  </tr>
-  <tr>
-    <td align="center"><strong>Buscasimpsons.com</strong></td>
-    <td align="center">Frontend Developer / QA Manual (Freelance)</td>
-    <td align="center">Nov 2025 - Ene 2026</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Walmart (Lider)</strong></td>
-    <td align="center">Practica Profesional - QA & RRHH</td>
-    <td align="center">Mar 2025 - May 2025</td>
-  </tr>
-</table>
-
-</div>
-
 ---
 
 <div align="center">
