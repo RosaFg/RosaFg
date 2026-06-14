@@ -12,10 +12,6 @@
 
 *Playwright · Postman · SQL*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A8C7E8?style=for-the-badge&logo=linkedin&logoColor=4a4a4a)](https://www.linkedin.com/in/rosafg/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-B8E0C8?style=for-the-badge&logo=google-chrome&logoColor=4a4a4a)](https://portafolio-rosaf.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-F5C6C6?style=for-the-badge&logo=gmail&logoColor=4a4a4a)](mailto:R.Fuentesg9@gmail.com)
-
 </div>
 
 ---
