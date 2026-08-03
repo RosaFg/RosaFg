@@ -6,10 +6,7 @@
 
 <div align="center">
 
-### Hola, soy Rosa 
-
 **Analista QA Automatizadora**  
-
 *Playwright/Selenium · Postman · SQL*
 
 </div>
