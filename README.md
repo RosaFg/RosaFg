@@ -88,8 +88,8 @@
 ---
 
 <div align="center">
-Lo que hago como QA
- 
+<h2><span style="color:#5B9BD5"> Lo que hago como QA </span></h2>
+
 | Testing Manual | Automatización | APIs | Performance |
 |:---:|:---:|:---:|:---:|
 | Casos de prueba | Selenium / Playwright | Postman | JMeter |
