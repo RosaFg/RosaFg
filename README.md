@@ -87,16 +87,14 @@
 
 ---
 
-<div align="center">
-<h2><span style="color:#5B9BD5">Lo que hago como QA</span></h2>
+## Lo que hago como QA
 
-| Testing Manual | Automatizacion | APIs | Performance |
+| Testing Manual | Automatización | APIs | Performance |
 |:---:|:---:|:---:|:---:|
-| Casos de prueba | Playwright | Postman | JMeter |
-| Pruebas funcionales | Regresion | REST APIs | Carga y estres |
-| Exploracion | Smoke testing | Validacion | Reportes |
-
-</div>
+| Casos de prueba | Selenium / Playwright | Postman | JMeter |
+| Pruebas funcionales | TestNG / JUnit | REST APIs | Pruebas de carga y estrés |
+| Pruebas exploratorias | Regresión automatizada | Validación de respuestas | Reportes de rendimiento |
+| Reporte de bugs | Page Object Model (POM) | Automatización de flujos | Análisis de resultados |
 
 ---
 
