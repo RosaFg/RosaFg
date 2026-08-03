@@ -104,10 +104,11 @@
 <h2><span style="color:#5B9BD5">Certificaciones</span></h2>
 </div>
 
-- **Diplomado en Gestion Estrategica de Seguridad y Ciberseguridad**
-- **Testing Automatizado y QA Manual**
-- **Power BI - Visualizacion de datos**
-- **Excel Avanzado con VBA**
+- **Learn Automation Testing with Java and Selenium Webdriver Specialization**
+- **SQL Foundations**
+- **Advanced Appium: Scalable Mobile Test Automation**
+- **SOAtest - Web Functional Testing**
+- **Fundamentos y Programación en Java**
 ---
 
 <div align="center">
