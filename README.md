@@ -88,7 +88,7 @@
 ---
 
 <div align="center">
-##Lo que hago como QA
+Lo que hago como QA
  
 | Testing Manual | Automatización | APIs | Performance |
 |:---:|:---:|:---:|:---:|
