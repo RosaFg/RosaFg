@@ -87,7 +87,6 @@
 
 ---
 
-## Lo que hago como QA
 <div align="center">
 ##Lo que hago como QA
  
