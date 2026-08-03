@@ -8,9 +8,9 @@
 
 ### Hola, soy Rosa 
 
-**Analista de datos, QA manual y automatización**  
+**Analista QA Automatizadora**  
 
-*Playwright · Postman · SQL*
+*Playwright/Selenium · Postman · SQL*
 
 </div>
 
